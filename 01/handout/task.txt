@@ -1,0 +1,14 @@
+Instructions
+Files attached: Lab01_Environment_and_first_notebook_Handout.docx (what is expected of you) and the starter notebook Lab01_Environment_and_first_notebook_starter.ipynb.
+
+What to do
+Open the starter notebook in Google Colab and fill in the missing code so that it runs from top to bottom. In short: load the Palmer Penguins dataset from the URL given, report the shape, column types and missing values, answer the four questions in the notebook (each with code and a written sentence), draw one labelled scatter plot and write two sentences reading it, then push the notebook to your GitHub repository (optional but highly recommended) dsa107-labs. The handout lists the full set of tasks and the grading table — read it first.
+
+Submission
+Upload Lab01_Firstname_Lastname.ipynb to this assignment by 12:20 today. The tab stays open until 13:30, after which no submission is possible. The 50% late rule does not apply in the first two weeks (30 September and 7 October), but the 13:30 cut-off does.
+
+Grading: this assignment is worth 10 points. Your lab report (15 points) is submitted separately — that tab opens at 13:30 today and closes on Sunday at 23:59, with no late submission.
+
+Before you submit: Runtime → Restart and run all. A notebook that only works in the order you happened to write it does not count as running.
+
+Reminder: If you used an AI assistant, remember to include your prompts and its answers as text inside the notebook.
